@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35698508240",
+    "project_id": "contact-manager-a959e",
+    "storage_bucket": "contact-manager-a959e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35698508240:android:e1988f8e5d3b89d59639d5",
+        "android_client_info": {
+          "package_name": "com.example.contactmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35698508240-jgd2bcpsbeg76vrvho1hivb0vp1saun4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6Hk-k5aERqOa52NApmdWjEjId1ME8FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35698508240-jgd2bcpsbeg76vrvho1hivb0vp1saun4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
